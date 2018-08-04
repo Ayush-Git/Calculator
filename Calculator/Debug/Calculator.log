@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Calculator.vcxproj -> E:\dev\Calculator\Debug\Calculator.exe
+  Calculator.vcxproj -> E:\dev\Calculator\Debug\Calculator.pdb (Partial PDB)
